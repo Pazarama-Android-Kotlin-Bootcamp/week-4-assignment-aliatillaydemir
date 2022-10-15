@@ -27,12 +27,23 @@ width=30% height=70%>&ensp;&ensp;&ensp;
 <img src="https://github.com/Pazarama-Android-Kotlin-Bootcamp/week-4-assignment-aliatillaydemir/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/Screenshot_8.png" 
 width=30% height=70%>&ensp;&ensp;&ensp;
 
-<br><br>
+<br>
 
 ## Uygulamada Kullanılan Bazı Teknoloji ve Kütüphaneler:
-
-
+* Openweathermap api
+* Retrofit
+* ViewBinding
+* SharedPreferences
+* Preferences DataStore
+* Flow
+* Livedata
+* ViewModel
+* Coroutine
+* Navigation
+* ImageSlider(Detay sayfasında gelecek günlerin hava durumunu gösteren component. [Referans.](https://github.com/denzcoskun/ImageSlideshow)
+* Coil
 -----------------------
+<br>
 
 # Week-4-Assignment
 
